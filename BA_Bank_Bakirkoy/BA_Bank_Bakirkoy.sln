@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00-BA.Entity", "00-BA.Entity\00-BA.Entity.csproj", "{31D7C3AC-081D-494B-A55C-9CC424BED943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-BA.DAL", "01-BA.DAL\01-BA.DAL.csproj", "{807B7DF6-8385-4C03-8F70-DCACB2C8E6FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-BA.BLL", "02-BA.BLL\02-BA.BLL.csproj", "{26EDE4FB-5EFC-4777-B98B-137B21B0CDB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-BA.Mapper", "03-BA.Mapper\03-BA.Mapper.csproj", "{679E18C4-3F82-4E38-B0DD-9A2A7CAFF70E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-BA.AdminAPP.UI", "04-BA.AdminAPP.UI\04-BA.AdminAPP.UI.csproj", "{28A239D3-1C87-4AB2-AC6A-C729DAFB950E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-BA.NumeratorAPP.UI", "04-BA.Numerator.UI\04-BA.NumeratorAPP.UI.csproj", "{33A30E35-6013-43D8-9BD8-296FB57D05C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-BA.CounterAPP.UI", "04-BA.BoothAPP.UI\04-BA.CounterAPP.UI.csproj", "{B2D349C6-9070-4319-A881-2C44402ACEC8}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://altunsoycem.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = 00-BA.Entity\\00-BA.Entity.csproj
+		SccProjectName1 = 00-BA.Entity
+		SccLocalPath1 = 00-BA.Entity
+		SccProjectUniqueName2 = 01-BA.DAL\\01-BA.DAL.csproj
+		SccProjectName2 = 01-BA.DAL
+		SccLocalPath2 = 01-BA.DAL
+		SccProjectUniqueName3 = 02-BA.BLL\\02-BA.BLL.csproj
+		SccProjectName3 = 02-BA.BLL
+		SccLocalPath3 = 02-BA.BLL
+		SccProjectUniqueName4 = 03-BA.Mapper\\03-BA.Mapper.csproj
+		SccProjectName4 = 03-BA.Mapper
+		SccLocalPath4 = 03-BA.Mapper
+		SccProjectUniqueName5 = 04-BA.AdminAPP.UI\\04-BA.AdminAPP.UI.csproj
+		SccProjectName5 = 04-BA.AdminAPP.UI
+		SccLocalPath5 = 04-BA.AdminAPP.UI
+		SccProjectUniqueName6 = 04-BA.Numerator.UI\\04-BA.NumeratorAPP.UI.csproj
+		SccProjectName6 = 04-BA.Numerator.UI
+		SccLocalPath6 = 04-BA.Numerator.UI
+		SccProjectUniqueName7 = 04-BA.BoothAPP.UI\\04-BA.CounterAPP.UI.csproj
+		SccProjectName7 = 04-BA.BoothAPP.UI
+		SccLocalPath7 = 04-BA.BoothAPP.UI
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31D7C3AC-081D-494B-A55C-9CC424BED943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D7C3AC-081D-494B-A55C-9CC424BED943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D7C3AC-081D-494B-A55C-9CC424BED943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D7C3AC-081D-494B-A55C-9CC424BED943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{807B7DF6-8385-4C03-8F70-DCACB2C8E6FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807B7DF6-8385-4C03-8F70-DCACB2C8E6FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807B7DF6-8385-4C03-8F70-DCACB2C8E6FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807B7DF6-8385-4C03-8F70-DCACB2C8E6FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26EDE4FB-5EFC-4777-B98B-137B21B0CDB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26EDE4FB-5EFC-4777-B98B-137B21B0CDB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26EDE4FB-5EFC-4777-B98B-137B21B0CDB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26EDE4FB-5EFC-4777-B98B-137B21B0CDB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{679E18C4-3F82-4E38-B0DD-9A2A7CAFF70E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679E18C4-3F82-4E38-B0DD-9A2A7CAFF70E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679E18C4-3F82-4E38-B0DD-9A2A7CAFF70E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679E18C4-3F82-4E38-B0DD-9A2A7CAFF70E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A239D3-1C87-4AB2-AC6A-C729DAFB950E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A239D3-1C87-4AB2-AC6A-C729DAFB950E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A239D3-1C87-4AB2-AC6A-C729DAFB950E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A239D3-1C87-4AB2-AC6A-C729DAFB950E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33A30E35-6013-43D8-9BD8-296FB57D05C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A30E35-6013-43D8-9BD8-296FB57D05C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A30E35-6013-43D8-9BD8-296FB57D05C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A30E35-6013-43D8-9BD8-296FB57D05C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2D349C6-9070-4319-A881-2C44402ACEC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D349C6-9070-4319-A881-2C44402ACEC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D349C6-9070-4319-A881-2C44402ACEC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D349C6-9070-4319-A881-2C44402ACEC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
